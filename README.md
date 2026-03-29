@@ -1,1 +1,0 @@
-The analysis identified the most relevant variables impacting customer conversion and provided insights into behavioral patterns across different client segments. These findings can support more targeted marketing strategies and improve campaign performance.
